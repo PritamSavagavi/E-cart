@@ -1,0 +1,81 @@
+a{
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.ekart-search-btn{
+    /* width: 33px; */
+    height: 33px;
+    border: none;
+    margin: 5px;
+    padding: 2px 10px;
+    background-color: rgb(27, 79, 131);
+    color: white;
+    font-weight: bold;
+    transition: box-shadow 0.5s ease;
+}
+.ekart-search-btn:hover {
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    /* Box shadow effect on hover */
+    background-color: rgb(77, 130, 175);
+}
+.ekart-header{
+    width: 100%;
+    height: 11vh;
+    display: flex;
+    flex-wrap: nowrap;
+    border-bottom: #E5E4E2 1.5px solid;
+}
+
+.ekart-logo{
+    padding: 1.2vh 8bh;
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(133, 186, 232);
+    font-family: 'Concert One', cursive;
+    width: 20%;
+}
+
+.ekart-header-nav{
+    width: 80%;
+    padding: 1vh 2vh;
+    font-family: Roboto;
+    font-size: 18px;
+}
+
+.ekart-top-bar{
+    width: auto;
+    text-align: right;
+    padding-top: 3px;
+    padding-bottom: 15px;
+    padding-right: 30px;
+}
+
+.ekart-menu{
+    /* padding-top: 2vh; */
+    padding: 1vh 1vh;
+    color: #36454f;
+    font-family: 'Roboto', 'sans-serif';
+    font-weight: bold;
+    font-size: 24px;
+    width: 80%;
+    text-align: center;
+}
+
+.ekart-bottom-bar{
+    display: flex;
+}
+
+.ekart-search-bar{
+    padding: 0 3vh;
+}
+
+
+.ekart-search-box{
+    width: 170px;
+    height: 33px;
+    border: none;
+    background-color: aliceblue;
+    padding: 2px 10px;
+    display: flexbox;
+}

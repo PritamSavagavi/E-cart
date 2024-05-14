@@ -1,0 +1,19 @@
+.shadow-button {
+    padding: 10px 20px;
+    margin: 20px;
+    background-color: #66984e;
+    /* Blue color, you can change it */
+    color: white;
+    border: none;
+    border-radius: 15px;
+    font-size: 26px;
+    cursor: pointer;
+    transition: box-shadow 0.5s ease;
+    /* Transition for smooth effect */
+}
+
+.shadow-button:hover {
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    /* Box shadow effect on hover */
+    background-color: rgb(142, 209, 187);
+}
