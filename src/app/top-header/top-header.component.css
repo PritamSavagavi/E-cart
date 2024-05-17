@@ -1,0 +1,18 @@
+.ekart-top-header {
+    height: 5vh;
+    background-color: #28282B;
+    text-align: center;
+    color: white;
+    padding-top: 1.5vh;
+    font-size: 12px;
+    font-weight: bold;
+    transition: background-color 0.4 ease, transition 0.3 ease;
+}
+
+.ekart-top-header:hover {
+    transition: scale(1.05);
+    background-color: red;
+    cursor: grab;
+    font-size: 16px;
+    font-weight: bolder;
+}

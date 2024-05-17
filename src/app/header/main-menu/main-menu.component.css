@@ -1,0 +1,12 @@
+.ekart-menu{
+    /* padding-top: 2vh; */
+    padding: 1vh 1vh;
+    color: #36454f;
+    font-family: 'Roboto', 'sans-serif';
+    font-weight: bold;
+    font-size: 24px;
+    width: 80%;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
