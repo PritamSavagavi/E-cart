@@ -20,11 +20,11 @@ export class ProductListComponent {
       category : 'Running',
       size : [6,7,8,9,10],
       color : ['White','Black','Red','Blue'],
-      price : 5000,
+      price : 15999,
       isInInventory : true,
       itemLeft : 3,
       slug : 'Nike React Infinity Run Flyknit',
-      imageURL : "/src/assets/Images/shoes/nike/custom-reactx-infinity-rn-4-by-you.jpg",
+      imageURL : "/assets/Images/shoes/nike/custom-reactx-infinity-rn-4-by-you.png",
       productType : 'Shoes'
     },
     {
@@ -40,11 +40,11 @@ export class ProductListComponent {
       category : 'Running',
       size : [6,7,8,9,10],
       color : ['White','Black','Red','Blue'],
-      price : 5000,
+      price : 11999,
       isInInventory : true,
       itemLeft : 13,
       slug : 'Nike Air max 270',
-      imageURL : "/src/assets/Images/shoes/nike/air-max-270-shoes-vjpNZc.jpg",
+      imageURL : "/assets/Images/shoes/nike/air-max-270-shoes.png",
       productType : 'Shoes'
     },
     {
@@ -60,11 +60,11 @@ export class ProductListComponent {
       category : 'Running',
       size : [6,7,8,9,10],
       color : ['White','Black','Red','Blue'],
-      price : 5000,
+      price : 18000,
       isInInventory : true,
       itemLeft : 3,
       slug : 'Nike Air Max DN',
-      imageURL : "/src/assets/Images/shoes/nike/air-max-dn-shoes-FtLNfm.png",
+      imageURL : "/assets/Images/shoes/nike/air-max-dn-shoes.png",
       productType : 'Shoes'
     },
     {
@@ -80,11 +80,11 @@ export class ProductListComponent {
       category : 'Running',
       size : [6,7,8,9,10],
       color : ['White','Black','Red','Blue'],
-      price : 5000,
+      price : 14000,
       isInInventory : true,
       itemLeft : 3,
       slug : 'Nike Air Max plus 3',
-      imageURL : "/src/assets/Images/shoes/nike/air-max-plus-3-shoes-HtMt7V.png",
+      imageURL : "/assets/Images/shoes/nike/air-max-plus-3-shoes.png",
       productType : 'Shoes'
     },
     {
@@ -100,11 +100,11 @@ export class ProductListComponent {
       category : 'Running',
       size : [6,7,8,9,10],
       color : ['White','Black','Red','Blue'],
-      price : 5000,
+      price : 15499,
       isInInventory : true,
       itemLeft : 23,
       slug : 'Nike Motiva walking',
-      imageURL : "/src/assets/Images/shoes/nike/motiva-walking-shoes-Fjzkq7.jpg",
+      imageURL : "/assets/Images/shoes/nike/Nike Motiva walking.png",
       productType : 'Shoes'
     },
     {
@@ -120,16 +120,16 @@ export class ProductListComponent {
       category : 'Running',
       size : [6,7,8,9,10],
       color : ['White','Black','Red','Blue'],
-      price : 5000,
+      price : 17500,
       isInInventory : true,
       itemLeft : 14,
       slug : 'Nike Pegasus 41 Road Running',
-      imageURL : "/src/assets/Images/shoes/nike/pegasus-41-road-running-shoes-RZm89S.jpg",
+      imageURL : "/assets/Images/shoes/nike/Nike pegasus 41.png",
       productType : 'Shoes'
     },
     {
       id : 7,
-      name: 'Nike wio Road Running',
+      name: 'Nike Court Vapor 11 Premium',
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec massa quis nisi convallis porttitor. Duis eget ultrices nisi. Donec ut volutpat velit, eget dapibus nulla."+
       "Sed at nisi id nisi aliquam aliquet. Cum sociis natoque penatibus et magnis dis parturient montes. Nascetur ridiculus mus. Vestibulum id ligula porta felis euismod semper."+
       "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Vestibulum id ligula porta felis euismod semper. "+
@@ -140,31 +140,31 @@ export class ProductListComponent {
       category : 'Running',
       size : [6,7,8,9,10],
       color : ['White','Black','Red','Blue'],
-      price : 5000,
+      price : 19000,
       isInInventory : true,
       itemLeft : 8,
-      slug : 'Nike wio Road Running',
-      imageURL : "/src/assets/Images/shoes/nike/wio-11-road-running-shoes-2SNS3P.jpg",
+      slug : 'Nike Court Vapor 11 Premium',
+      imageURL : "/assets/Images/shoes/nike/NikeCourt Vapor 11 Premium.png",
       productType : 'Shoes'
     },
     {
       id : 8,
-      name: 'Puma Exotech-Nitro',
+      name: 'Nike invincible-3',
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec massa quis nisi convallis porttitor. Duis eget ultrices nisi. Donec ut volutpat velit, eget dapibus nulla."+
       "Sed at nisi id nisi aliquam aliquet. Cum sociis natoque penatibus et magnis dis parturient montes. Nascetur ridiculus mus. Vestibulum id ligula porta felis euismod semper."+
       "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Vestibulum id ligula porta felis euismod semper. "+
       "Cum sociis natoque penatibus et magnis dis parturient montes. Nascetur ridiculus mus. Vestibulum id ligula porta felis euismod semper. Cras justo odio, dapibus ac facilisis in, egestas eget quam."+
       "Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod.",
-      brand : 'PUMA',
+      brand : 'Nike',
       gender : 'Men',
       category : 'Running',
       size : [6,7,8,9,10],
       color : ['White','Black','Red','Blue'],
-      price : 5000,
+      price : 19999,
       isInInventory : true,
       itemLeft : 19,
-      slug : 'Puma Exotech-Nitro',
-      imageURL : "/src/assets/Images/shoes/puma/Exotek-NITRO™-Base-Unisex-Sneakers.png",
+      slug : 'Nike invincible-3',
+      imageURL : "/assets/Images/shoes/nike/invincible-3-road-running.png",
       productType : 'Shoes'
     },
     {
@@ -184,7 +184,7 @@ export class ProductListComponent {
       isInInventory : true,
       itemLeft : 3,
       slug : 'Puma Conduct Pro Unisex',
-      imageURL : "/src/assets/Images/shoes/puma/Conduct Pro Unisex Running Shoes.png",
+      imageURL : "/assets/Images/shoes/puma/Conduct Pro Unisex Running Shoes.png",
       productType : 'Shoes'
     },
     {
@@ -204,7 +204,7 @@ export class ProductListComponent {
       isInInventory : true,
       itemLeft : 3,
       slug : 'Puma Deviate NITRO™ 2',
-      imageURL : "/src/assets/Images/shoes/puma/Deviate NITRO™ 2 Men's Running Shoes.png",
+      imageURL : "/assets/Images/shoes/puma/Deviate NITRO™ 2 Men's Running Shoes.png",
       productType : 'Shoes'
     },
     {
@@ -224,7 +224,7 @@ export class ProductListComponent {
       isInInventory : true,
       itemLeft : 24,
       slug : 'PUMA Evoke Layup',
-      imageURL : "/src/assets/Images/shoes/puma/PUMA Evoke Layup Men's Sneakers.jpg",
+      imageURL : "/assets/Images/shoes/puma/Puma Evoke Layup.png",
       productType : 'Shoes'
     },
     {
@@ -244,7 +244,7 @@ export class ProductListComponent {
       isInInventory : true,
       itemLeft : 15,
       slug : 'Puma ForeverRun NITRO™',
-      imageURL : "/src/assets/Images/shoes/puma/Puma ForeverRun NITRO™ Men's Running Shoes.png",
+      imageURL : "/assets/Images/shoes/puma/Puma ForeverRun NITRO™ Men's Running Shoes.png",
       productType : 'Shoes'
     },
     {
@@ -264,8 +264,9 @@ export class ProductListComponent {
       isInInventory : true,
       itemLeft : 11,
       slug : 'Puma SOFTRIDE Symmetry Unisex',
-      imageURL : "/src/assets/Images/shoes/puma/Puma SOFTRIDE Symmetry Unisex Running Shoes.png",
+      imageURL : "/assets/Images/shoes/puma/Puma SOFTRIDE Symmetry Unisex Running Shoes.png",
       productType : 'Shoes'
     }
-      ]
+      ];
+
 }

@@ -10,10 +10,11 @@ import { TopMenuComponent } from './header/top-menu/top-menu.component';
 import { MainMenuComponent } from './header/main-menu/main-menu.component';
 import { ContainerComponent } from './container/container.component';
 import { SearchComponent } from './container/search/search.component';
+import { ProductListComponent } from './container/product-list/product-list.component';
 
 @NgModule({
   declarations: [
-    AppComponent, HeaderComponent, TopHeaderComponent, TopMenuComponent, MainMenuComponent, ContainerComponent, SearchComponent
+    AppComponent, HeaderComponent, TopHeaderComponent, TopMenuComponent, MainMenuComponent, ContainerComponent, SearchComponent, ProductListComponent
   ],
   imports: [
     BrowserModule,
